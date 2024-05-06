@@ -30,6 +30,7 @@ label{
 }
 .register{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2rem;
 }
 form{
   display: flex;
@@ -66,6 +67,7 @@ form{
 .details{
   color: aliceblue;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2rem;
 }
 .catagory{
   height: 2.4rem;
